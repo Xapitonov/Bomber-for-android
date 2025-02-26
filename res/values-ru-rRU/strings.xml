@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Бомбер</string>
+	<string name="score">Счет: </string>
+	<string name="highscore">Рекорд: </string>
+	<string name="level">Уровень: </string>
+	<string name="lives">Жизни: </string>
+	<string name="gameover">Игра окончена!</string>
+	<string name="welcome">Добро пожаловать в Бомбер</string>
+	<string name="clicktostart">Нажмите, чтобы начать игру</string>
+	<string name="clearedlevel">Вы успешно прошли уровень</string>
+	<string name="ontolevel">Переходите к уровню</string>
+	<string name="menu_restart">Новая игра</string>
+	<string name="menu_settings">Настройки</string>
+	<string name="settings">Настройки</string>
+	
+	<string name="bombspeed_title">Скорость падения бомбы</string>
+	<string name="bombspeed_summary">Скорость, с которой падает бомба.</string>
+	<string name="bombspeed_dialogtitle">Скорость падения бомбы</string>
+	<string name="bombspeed_dialogmessage">Скорость, с которой падает бомба.</string>
+	
+	<string name="planestartspeed_title">Скорость самолета</string>
+	<string name="planestartspeed_summary">Скорость, с которой летит самолет.</string>
+	<string name="planestartspeed_dialogtitle">Скорость самолета</string>
+	<string name="planestartspeed_dialogmessage">Скорость, с которой летит самолет.</string>
+	
+	<string name="planeaccelleration_title">Ускорение самолета</string>
+	<string name="planeaccelleration_summary">Увеличение скорости самолета на уровне.</string>
+	<string name="planeaccelleration_dialogtitle">Ускорение самолета</string>
+	<string name="planeaccelleration_dialogmessage">Увеличение скорости на каждом уровне.</string>
+	
+	<string name="lives_title">Жизни</string>
+	<string name="lives_summary">Вы можете быть как кошка!</string>
+	<string name="lives_dialogtitle">Жизни</string>
+	<string name="lives_dialogmessage">Количество жизней, с которым вы начинаете игру.</string>
+	
+	<string name="reset_title">Сброс рекорда</string>
+	<string name="reset_summary">Будьте осторожны! Эта кнопка делает именно то, что написано.</string>
+</resources>
